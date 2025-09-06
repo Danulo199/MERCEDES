@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+    color: black;
+    margin: 0;
+}
+
+header img { padding-left: 450px;
+
+}
+    
+
+
+.button {
+    
+}
+
+nav { border-top: 5px solid;
+border-bottom: 5px solid;
+padding: 25px 100px 25px 95px ;
+display: flex;
+justify-content: space-between;
+}
+
+.nav-link {
+    text-decoration: none;
+    color:blue;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+h1 { text-align: center;
+
+}
+
+p {
+    font-size: 20px;
+}
+
+.info { display: flex;
+flex-wrap: wrap;
+max-width: 1000px;
+
+   
+}
+
+article { background-color: blue;
+padding: 15px 45px 30px 35px;
+width: 300px;
+margin:20px;
+   
+}
+
+.article-but { color: black;
+    
+}
+
+footer {
+   
+}
+
+footer a {
+    
+}
+
+footer p {
+}
